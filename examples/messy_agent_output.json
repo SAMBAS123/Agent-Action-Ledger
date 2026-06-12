@@ -1,0 +1,38 @@
+[
+  {
+    "action_type": "collection",
+    "name": "Martinez, R.",
+    "owner": "Caitlin",
+    "amount": 8400,
+    "due": "today",
+    "notes": "Voicemail left",
+    "source": "acculynx"
+  },
+  {
+    "action_type": "collection",
+    "name": "Martinez, R.",
+    "owner": "Caitlin",
+    "amount": 8400,
+    "due": "today",
+    "notes": "Voicemail left again",
+    "source": "acculynx"
+  },
+  {
+    "action_type": "follow_up",
+    "name": "Nguyen, P.",
+    "owner": "Sam",
+    "amount": 12800,
+    "due": "2026-05-28",
+    "notes": "Estimate delivered",
+    "source": "acculynx"
+  },
+  {
+    "action_type": "follow_up",
+    "name": "Thompson, D.",
+    "owner": "Sam",
+    "amount": 4200,
+    "due": "today",
+    "notes": "Email sent",
+    "source": "manual"
+  }
+]

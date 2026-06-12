@@ -1,0 +1,1 @@
+"""Agent Action Ledger Kit - tiny, practical action identity + suppression for operators."""
